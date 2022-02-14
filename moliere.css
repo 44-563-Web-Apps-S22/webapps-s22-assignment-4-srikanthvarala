@@ -31,4 +31,27 @@ color:brown
 .toinette {
     color:darkmagenta
 }
+.table {
+    padding:20px;
+    border: solid 4px;
+    margin:20px;
+    
+}
+.table_heading {
+    background-color: darkseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 2px;
+    text-align: center;
+}
+.table_value1 {
+    background-color: lightsalmon;
+    border-radius: 2px;
+    text-align: center;
 
+}
+.table_value2 {
+    background-color:hotpink;
+    border-radius: 2px;
+    text-align: center;
+
+}
