@@ -55,3 +55,9 @@ color:brown
     text-align: center;
 
 }
+.name:hover {
+    text-shadow:2px rgb(121, 119, 119);
+    color: yellow;
+    filter:blur(3px);
+    border:solid 2px red
+}
